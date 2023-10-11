@@ -1,0 +1,159 @@
+label.prashlogo {
+  font-size: 35px;
+  line-height: 1.3;
+}
+
+.footer_contact_width {
+  padding: 10px 0 0;
+}
+
+.about_imageeed {
+  /* position: relative; */
+  height: 860px;
+  width: 100%;
+  background: url(../images/prashnaallimages/prashna.jpg);
+  background-size: cover;
+}
+
+.about_service_prashna-a {
+  position: relative;
+  width: 100%;
+  background: url(../images/prashnaallimages/prashna.jpg) center;
+  background-size: cover;
+  height: 700px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 0px) and (max-width: 420px) {
+  .about_imageeed {
+    /* position: relative; */
+    height: 500px;
+    width: 100%;
+    background: url(../images/prashnaallimages/prashna.jpg);
+    background-size: cover;
+  }
+
+  .img-box-p.psakkk {
+    padding: 0 !important;
+  }
+  :root {
+    --width: 170px !important;
+  }
+}
+
+
+@media screen and (min-width: 421px) and (max-width: 767px) {
+  .about_imageeed {
+    /* position: relative; */
+    height: 700px;
+    width: 100%;
+    background: url(../images/prashnaallimages/prashna.jpg);
+    background-size: cover;
+  }
+:root {
+    --width: 180px !important;
+  }
+  
+
+  .img-box-p.psakkk {
+    padding: 0 !important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  :root {
+    --width: 180px !important;
+  }
+
+  .img-box-p.psakkk {
+    padding: 0 100px !important;
+  }
+}
+
+
+@media screen and (min-width: 992px) and (max-width: 1420px) {}
+
+
+@media screen and (min-width: 0px) and (max-width: 420px) {}
+
+
+
+
+
+@media screen and (min-width: 0px) and (max-width: 767px) {}
+
+
+@media screen and (min-width: 768px) and (max-width: 991px) {}
+
+
+@media screen and (min-width: 992px) and (max-width: 1300px) {
+  .fgdfg.about_service_left {
+    margin-left: -140px;
+  }
+
+  .col-md-4.col-sm-6.vertyka {
+    margin-left: 80px;
+    margin-right: -80px;
+  }
+  .contact_location_box .contact_location_map {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 40px 40px;
+    border: 1px solid #F1F1F1;
+    margin-right: 20px !important;
+    width: 225px;
+}
+}
+@media screen and (min-width: 481px) and (max-width: 991px) {
+    .contact_location_box .contact_location_map {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 40px 40px;
+    border: 1px solid #F1F1F1;
+    margin-right: 20px !important;
+    width: 225px;
+}
+}
+@media screen and (min-width: 1300px) and (max-width: 99999px) {
+  .fgdfg.about_service_left {
+    margin-left: -180px;
+  }
+
+  .col-md-4.col-sm-6.vertyka {
+    margin-left: 70px;
+    margin-right: -70px;
+  }
+  .contact_location_box .contact_location_map {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 40px 40px;
+    border: 1px solid #F1F1F1;
+    margin-right: 20px !important;
+    width: 225px;
+}
+}
+
+@media screen and (min-width: 1500px) and (max-width: 1739px) {
+  .img-box-p.psakkk {
+    padding: 0 270px !important;
+  }
+}
+
+@media screen and (min-width: 1740px) and (max-width: 99999px) {
+  .img-box-p.psakkk {
+    padding: 0 390px !important;
+  }
+}
